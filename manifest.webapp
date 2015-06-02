@@ -1,11 +1,11 @@
 {
-  "name": "Miblog",
-  "description": "este es mi blog",
+  "name": "Blog de Prueba",
+  "description": "este es mi blog y funciono usando fork",
   "icons": {"128": "/assets/images/icon128.png"},
   "version": "0.1",
   "launch_path": "/index.html",
   "developer": {
-    "name": "Leonard",
+    "name": "Ftovar",
     "url": "http://github.com"
   }
 }
