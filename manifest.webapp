@@ -1,6 +1,6 @@
 {
   "name": "Blog de Prueba",
-  "description": "este es mi blog y funciono usando fork",
+  "description": "este es mi blog y funciono",
   "icons": {"128": "/assets/images/cc-by.png"},
   "version": "0.1",
   "launch_path": "/index.html",
